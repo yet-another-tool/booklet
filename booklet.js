@@ -1,3 +1,7 @@
+#!/usr/bin/env node
+
+/* Studio Webux S.E.N.C 2022 */
+
 const pdf = require("pdfjs");
 const fs = require("fs");
 
