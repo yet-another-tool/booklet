@@ -1,6 +1,6 @@
 {
   "name": "@yetanothertool/booklet",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": false,
   "description": "Simple NodeJS tool to split an existing PDF in configurable signatures to print and make a book",
   "main": "booklet.js",
