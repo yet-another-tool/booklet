@@ -1,0 +1,29 @@
+{
+  "name": "@yetanothertool/booklet",
+  "version": "1.0.0",
+  "private": false,
+  "description": "Simple NodeJS tool to split an existing PDF in configurable signatures to print and make a book",
+  "main": "booklet.js",
+  "keywords": [
+    "booklet",
+    "signature",
+    "pdf",
+    "utility"
+  ],
+  "author": "Studio Webux S.E.N.C",
+  "license": "MIT",
+  "dependencies": {
+    "pdfjs": "^2.4.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yet-another-tool/booklet.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yet-another-tool/booklet/issues"
+  },
+  "homepage": "https://github.com/yet-another-tool/booklet#readme",
+  "bin": {
+    "yat-booklet": "booklet.js"
+  }
+}
